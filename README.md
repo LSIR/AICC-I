@@ -10,16 +10,17 @@
 |:---------:|:----------------------------|
 | 15/09     |  Introduction               | 
 | 22/09     |  Propositional Logic        |
-| 29/09     |  Proofs                     |
-| 06/10     |  Sets and Functions         |
-| 13/10     |  Relations                  |
-| 20/10     |  Sequences and Summations   |
-| 27/10     |  Algorithms                 |
-| 04/11     |  Number Theory              |
-| 11/11     |  Induction                  |
-| 18/11     |  Counting                   |
-| 25/11     |  Advanced Counting          |
-| 02/12     |  Probability                |
+| 29/09     |  Predicate Logic            |
+| 06/10     |  Proofs                     |
+| 13/10     |  Sets and Functions         |
+| 20/10     |  Relations                  |
+| 27/10     |  Sequences and Summations   |
+| 04/11     |  Algorithms                 |
+| 11/11     |  Number Theory              |
+| 18/11     |  Induction                  |
+| 25/11     |  Counting                   |
+| 02/12     |  Advanced Counting          |
+| 09/12     |  Probability                |
 
 
 ## Extras
