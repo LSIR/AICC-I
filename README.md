@@ -15,12 +15,12 @@
 | 13/10     |  Sets and Functions         |
 | 20/10     |  Relations                  |
 | 27/10     |  Sequences and Summations   |
-| 04/11     |  Algorithms                 |
-| 11/11     |  Number Theory              |
-| 18/11     |  Induction                  |
-| 25/11     |  Counting                   |
-| 02/12     |  Advanced Counting          |
-| 09/12     |  Probability                |
+| 03/11     |  Algorithms                 |
+| 10/11     |  Number Theory              |
+| 17/11     |  Induction                  |
+| 24/11     |  Counting                   |
+| 01/12     |  Advanced Counting          |
+| 08/12     |  Probability                |
 
 
 ## Extras
