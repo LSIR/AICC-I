@@ -1,5 +1,5 @@
 # Advanced information, computation, communication I 2020-2021
-###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Mohammadreza Banaei](mohammadreza.banaei@epfl.ch), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan)
+###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Mohammadreza Banaei](https://people.epfl.ch/mohammadreza.banaei), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan)
 
 ## E-Class
 * Lecture Webinar (Tuesdays, 8am-10.00pm): https://epfl.zoom.us/j/93750354361
