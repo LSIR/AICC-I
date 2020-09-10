@@ -13,6 +13,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 
 
 ## Schedule
+
 | Date      |  Material                   |
 |:---------:|:----------------------------|
 | 15/09     |  Introduction               | 
