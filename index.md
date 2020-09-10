@@ -1,5 +1,3 @@
-# CS-101 Advanced information, computation, communication I 2020-2021
-
 Discrete mathematics is a discipline with applications to almost all areas of study. It provides a set of indispensable tools to computer science in particular. This course reviews (familiar) topics as diverse as mathematical reasoning, combinatorics, discrete structures & algorithmic thinking.
 
 <!-- ###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Mohammadreza Banaei](mohammadreza.banaei@epfl.ch), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan) -->
