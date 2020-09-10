@@ -19,17 +19,16 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 |:---------:|:----------------------------|
 | 15/09     |  Introduction               | 
 | 22/09     |  Propositional Logic        |
-| 29/09     |  Predicate Logic            |
-| 06/10     |  Proofs                     |
-| 13/10     |  Sets and Functions         |
-| 20/10     |  Relations                  |
-| 27/10     |  Sequences and Summations   |
-| 03/11     |  Algorithms                 |
-| 10/11     |  Number Theory              |
-| 17/11     |  Induction                  |
-| 24/11     |  Counting                   |
-| 01/12     |  Advanced Counting          |
-| 08/12     |  Probability                |
+| 29/09     |  Proofs                     |
+| 06/10     |  Sets and Functions         |
+| 13/10     |  Relations                  |
+| 20/10     |  Sequences and Summations   |
+| 27/10     |  Algorithms                 |
+| 04/11     |  Number Theory              |
+| 11/11     |  Induction                  |
+| 18/11     |  Counting                   |
+| 25/11     |  Advanced Counting          |
+| 02/12     |  Probability                |
 
 
 ## Contacts
