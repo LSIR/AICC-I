@@ -1,13 +1,12 @@
 Discrete mathematics is a discipline with applications to almost all areas of study. It provides a set of indispensable tools to computer science in particular. This course reviews (familiar) topics as diverse as mathematical reasoning, combinatorics, discrete structures & algorithmic thinking.
 
-<!-- ###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Mohammadreza Banaei](mohammadreza.banaei@epfl.ch), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan) -->
 
 ## E-Class
 
 | Platform | Description  |
 |:---------|:-----------|
 Zoom | **Tuesdays [8:00-10:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/93750354361)] |
-Discord |  **Fridays [10:00-12:00]**: Exercise Session, Communication Hub [[link](https://discord.gg/wxYbMsm)] |
+Discord |  **Fridays [10:00-12:00]**: Exercise Session, Communication Hub [] |
 SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/355bebaa)]|
 Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/course/view.php?id=16329)]|
 
@@ -16,7 +15,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 
 | Date      |  Material                   |
 |:---------:|:----------------------------|
-| 15/09     |  Introduction               | 
+| 15/09     |  Introduction [[slides]][1p]| 
 | 22/09     |  Propositional Logic        |
 | 29/09     |  Proofs                     |
 | 06/10     |  Sets and Functions         |
@@ -37,3 +36,11 @@ You can contact me anytime by email.
 
 **Teaching assistants**: [Mohammadreza Banaei](mohammadreza.banaei@epfl.ch), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan).
 Please contact us for any organisational questions or questions related to the course content.
+
+## Disclaimer
+
+Given the unusual situation this semester we might see the need to modify the organisation of the course throughout the semester to adapt to the needs. Please follow carefully the announcements that are provided on Discord/Moodle.
+
+
+
+[1p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%200
