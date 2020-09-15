@@ -1,5 +1,7 @@
 Discrete mathematics is a discipline with applications to almost all areas of study. It provides a set of indispensable tools to computer science in particular. This course reviews (familiar) topics as diverse as mathematical reasoning, combinatorics, discrete structures & algorithmic thinking.
 
+This class will be following closely the book "Discrete Mathematics and Its Applications" by Kenneth H. Rosen, published by McGraw-Hill. The following schedule is based on the 8th edition.
+
 
 ## E-Class
 
@@ -13,20 +15,20 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 
 ## Schedule
 
-| Date      |  Material                   |
-|:---------:|:----------------------------|
-| 15/09     |  Introduction [[slides]][1p]| 
-| 22/09     |  Propositional Logic        |
-| 29/09     |  Proofs                     |
-| 06/10     |  Sets and Functions         |
-| 13/10     |  Relations                  |
-| 20/10     |  Sequences and Summations   |
-| 27/10     |  Algorithms                 |
-| 04/11     |  Number Theory              |
-| 11/11     |  Induction                  |
-| 18/11     |  Counting                   |
-| 25/11     |  Advanced Counting          |
-| 02/12     |  Probability                |
+| Date      |  Material                   | Course Chapter |
+|:---------:|:----------------------------|----------------|
+| 15/09     |  Introduction [[slides]][1p]|        -       | 
+| 22/09     |  Propositional Logic        | Chapter 1      |
+| 29/09     |  Proofs                     | Chapter 1      |
+| 06/10     |  Sets and Functions         | Chapter 2      |
+| 13/10     |  Relations                  | Chapter 9      |
+| 20/10     |  Sequences and Summations   | Chapter 2      |
+| 27/10     |  Algorithms                 | Chapter 3      |
+| 04/11     |  Number Theory              | Chapter 4      |
+| 11/11     |  Induction                  | Chapter 5      |
+| 18/11     |  Counting                   | Chapter 6      |
+| 25/11     |  Advanced Counting          | Chapter 8      |
+| 02/12     |  Probability                | Chapter 7      |
 
 
 ## Contacts
