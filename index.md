@@ -19,16 +19,17 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 |:---------:|:------------------------------------------|------------------------|
 | 15/09     |  Introduction [[slides]][1p]              |        -               | 
 | 22/09     |  Propositional Logic [[slides]][2p]       | Sections 1.1, 1.2, 1.3 |
-| 29/09     |  Proofs                                   | Chapter 1              |
-| 06/10     |  Sets and Functions                       | Chapter 2              |
-| 13/10     |  Relations                                | Chapter 9              |
-| 20/10     |  Sequences and Summations                 | Chapter 2              |
-| 27/10     |  Algorithms                               | Chapter 3              |
-| 04/11     |  Number Theory                            | Chapter 4              |
-| 11/11     |  Induction                                | Chapter 5              |
-| 18/11     |  Counting                                 | Chapter 6              |  
-| 25/11     |  Advanced Counting                        | Chapter 8              |
-| 02/12     |  Probability                              | Chapter 7              |
+| 29/09     |  Predicate Logic                          | Chapter 1              |
+| 06/10     |  Proofs                                   | Chapter 1              |
+| 13/10     |  Sets and Functions                       | Chapter 2              |
+| 20/10     |  Relations                                | Chapter 9              |
+| 27/10     |  Sequences and Summations                 | Chapter 2              |
+| 03/11     |  Algorithms                               | Chapter 3              |
+| 10/11     |  Number Theory                            | Chapter 4              |
+| 17/11     |  Induction                                | Chapter 5              |
+| 24/11     |  Counting                                 | Chapter 6              |  
+| 01/12     |  Advanced Counting                        | Chapter 8              |
+| 08/12     |  Probability                              | Chapter 7              |
 
 
 ## Contacts
