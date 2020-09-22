@@ -19,7 +19,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 |:---------:|:------------------------------------------------------|------------------------|
 | 15/09     |  Introduction [[slides]][1p]                          |        -               | 
 | 22/09     |  Propositional Logic [[slides]][2p], [[exercises]][2e]| Sections 1.1, 1.2, 1.3 |
-| 29/09     |  Predicate Logic                                      | Chapter 1              |
+| 29/09     |  Predicate Logic                                      | Sections 1.4, 1.5      |
 | 06/10     |  Proofs                                               | Chapter 1              |
 | 13/10     |  Sets and Functions                                   | Chapter 2              |
 | 20/10     |  Relations                                            | Chapter 9              |
