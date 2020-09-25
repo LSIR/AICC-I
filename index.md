@@ -17,9 +17,9 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 
 | Date      |  Material                                             | Book Chapter           |
 |:---------:|:------------------------------------------------------|------------------------|
-| 15/09     |  Introduction [[slides]][1p]                          |        -               | 
-| 22/09     |  Propositional Logic [[slides]][2p], [[exercises]][2e]| Sections 1.1, 1.2, 1.3 |
-| 29/09     |  Predicate Logic                                      | Sections 1.4, 1.5      |
+| 15/09     |  Introduction [[slides]][0p]                          |        -               | 
+| 22/09     |  Propositional Logic [[slides]][1p], [[exercises]][1e]| Sections 1.1, 1.2, 1.3 |
+| 29/09     |  Predicate Logic [[slides]][2p], [[exercises]][2e]    | Sections 1.4, 1.5      |
 | 06/10     |  Proofs                                               | Chapter 1              |
 | 13/10     |  Sets and Functions                                   | Chapter 2              |
 | 20/10     |  Relations                                            | Chapter 9              |
@@ -46,6 +46,8 @@ Given the unusual situation this semester we might see the need to modify the or
 
 
 
-[1p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%200
-[2p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%201
-[2e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%201
+[0p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%200
+[1p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%201
+[1e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%201
+[2p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%202
+[2e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%202
