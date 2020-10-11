@@ -37,7 +37,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 **Lecturer**: [Karl Aberer](http://lsir.epfl.ch/aberer).
 You can contact me anytime by email.
 
-**Teaching assistants**: [Mohammadreza Banaei](mohammadreza.banaei@epfl.ch), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan).
+**Teaching assistants**: [Mohammadreza Banaei](mailto:mohammadreza.banaei@epfl.ch), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan).
 Please contact us for any organisational questions or questions related to the course content.
 
 ## Disclaimer
