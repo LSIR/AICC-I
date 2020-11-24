@@ -27,8 +27,8 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 | 03/11     |  Complexity of Algorithms [[slides]][7p] [[exercises]][7e]           | Sections 3.2, 3.3.1, 3.3.2, 3.3.3, 3.3.5  |
 | 10/11     |  Induction and Recursion [[slides]][8p] [[exercises]][8e]            | Sections 5.1, 5.2.1, 5.2.2, 5.2.3, 5.3.1, 5.3.2, 5.3.3 (up to example 9), 5.3.4 (up to example 12), 5.4|
 | 17/11     |  Number Theory [[slides]][9p] [[exercises]][9e]                      | Sections 4.1, 4.2, 4.3                    |
-| 24/11     |  Counting [[slides]][10p] [[exercises]][10e]                         | Sections 6.1.1, 6.1.2, 6.1.4, 6.2.1, 6.2.2, 6.3, 6.4.1, 6.4.2, 6.5                                 |  
-| 01/12     |  Advanced Counting                                                   | Chapter 8                                 |
+| 24/11     |  Counting [[slides]][10p] [[exercises]][10e]                         | Sections 6.1.1, 6.1.2, 6.1.4, 6.2.1, 6.2.2, 6.3, 6.4.1, 6.4.2, 6.5|  
+| 01/12     |  Advanced Counting  [[slides]][11p] [[exercises]][11e]               | Sections 8.1.1, 8.1.2, 8.2.1, 8.2.2, 8.4.1, 8.4.2, 8.4.3, 8.4.4, 8.5, 8.6.5|
 | 08/12     |  Probability                                                         | Chapter 7                                 |
 
 
@@ -67,3 +67,5 @@ Given the unusual situation this semester we might see the need to modify the or
 [9e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%209
 [10p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%2010
 [10e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%2010
+[11p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%2011
+[11e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%2011
