@@ -30,7 +30,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 | 24/11     |  Counting [[slides]][10p] [[exercises]][10e]                         | Sections 6.1.1, 6.1.2, 6.1.4, 6.2.1, 6.2.2, 6.3, 6.4.1, 6.4.2, 6.5|  
 | 01/12     |  Advanced Counting  [[slides]][11p] [[exercises]][11e]               | Sections 8.1.1, 8.1.2, 8.2.1, 8.2.2, 8.4.1, 8.4.2, 8.4.3, 8.4.4, 8.5, 8.6.5|
 | 08/12     |  Probability [[slides]][12p]  [[exercises]][12e]                     | Sections 7.1, 7.2.1 - 7.2.6, 7.3.1, 7.3.2 |
-| 15/12     |  Advanced Probability                                                | Chapter 7                                 |
+| 15/12     |  Advanced Probability  [[slides]][13p]  [[exercises]][13e]           | Sections 7.4.1, 7.4.2, 7.4.3, 7.4.6, 7.4.7, 7.4.8|
 
 
 ## Contacts
@@ -72,3 +72,5 @@ Given the unusual situation this semester we might see the need to modify the or
 [11e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%2011
 [12p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%2012
 [12e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%2012
+[13p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%2013
+[13e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%2013
