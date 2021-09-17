@@ -13,7 +13,7 @@ Discord |  **Fridays [10:00-12:00]**: Exercise session, Exercise rooms and Disco
 Discord |  **Saturdays [10:00-12:00]**: Extra Exercise Session, Exercise rooms and Discord[More information on moodle] |
 
 
-SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/355bebaa)]|
+SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/2q51frV5M8)]|
 Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/course/view.php?id=15272)]|
 
 
