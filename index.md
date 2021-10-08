@@ -25,7 +25,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 | 28/09     |  Propositional Logic [[slides]][1p], [[exercises]][1e]               | Sections 1.1, 1.2, 1.3                    |
 | 05/10     |  Predicate Logic	[[slides]][2p], [[exercises]][2e] 			       | Sections 1.4, 1.5                         |
 | 12/10     |  Proofs	[[slides]][3p], [[exercises]][3e]			               | Sections 1.6, 1.7, 1.8.2, 1.8.6           |
-| 19/10     |  Sets and Functions	[[slides]][4p]			                       | Sections 2.1, 2.2, 2.3, 9.1               |
+| 19/10     |  Sets and Functions	[[slides]][4p], [[exercises]][4e]			   | Sections 2.1, 2.2, 2.3, 9.1               |
 | 26/10     |  Relations, Sequences and Summations				   | Sections 9.1, 9.5, 9.6, 2.4, 2.5          |   
 | 27/10     |  Algorithms				                           | Sections 3.1.1, 3.1.2, 3.1.3, 3.1.5, 3.1.6|
 | 02/11     |  Complexity of Algorithms					           | Sections 3.2, 3.3.1, 3.3.2, 3.3.3, 3.3.5  |
