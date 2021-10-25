@@ -27,7 +27,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 | 05/10     |  Proofs	[[slides]][3p], [[exercises]][3e]			                 | Sections 1.6, 1.7, 1.8.2, 1.8.6           |
 | 12/10     |  Sets and Functions	[[slides]][4p], [[exercises]][4e]			     | Sections 2.1, 2.2, 2.3, 9.1               |
 | 19/10     |  Relations, Sequences and Summations	[[slides]][5p], [[exercises]][5e]| Sections 9.1, 9.5, 9.6, 2.4, 2.5          |   
-| 26/10     |  Algorithms				                           | Sections 3.1.1, 3.1.2, 3.1.3, 3.1.5, 3.1.6|
+| 26/10     |  Algorithms	[[slides]][6p], [[exercises]][6e]			             | Sections 3.1.1, 3.1.2, 3.1.3, 3.1.5, 3.1.6|
 | 02/11     |  Complexity of Algorithms					           | Sections 3.2, 3.3.1, 3.3.2, 3.3.3, 3.3.5  |
 | 09/11     |  Induction and Recursion					           | Sections 5.1, 5.2.1, 5.2.2, 5.2.3, 5.3.1, 5.3.2, 5.3.3 (up to example 9), 5.3.4 (up to example 12), 5.4|
 | 16/11     |  Number Theory 					                   | Sections 4.1, 4.2, 4.3                    |
