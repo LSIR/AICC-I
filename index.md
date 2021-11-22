@@ -31,7 +31,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 | 02/11     |  Complexity of Algorithms  [[slides]][7p], [[exercises]][7e]			 | Sections 3.2, 3.3.1, 3.3.2, 3.3.3, 3.3.5  |
 | 09/11     |  Induction and Recursion	[[slides]][8p], [[exercises]][8e]		     | Sections 5.1, 5.2.1, 5.2.2, 5.2.3, 5.3.1, 5.3.2, 5.3.3 (up to example 9), 5.3.4 (up to example 12), 5.4|
 | 16/11     |  Number Theory 	[[slides]][9p], [[exercises]][9e]				     | Sections 4.1, 4.2, 4.3                    |
-| 23/11     |  Counting 					                   | Sections 6.1.1, 6.1.2, 6.1.4, 6.2.1, 6.2.2, 6.3, 6.4.1, 6.4.2, 6.5|  
+| 23/11     |  Counting [[slides]][10p], [[exercises]][10e]				             | Sections 6.1.1, 6.1.2, 6.1.4, 6.2.1, 6.2.2, 6.3, 6.4.1, 6.4.2, 6.5|  
 | 30/11     |  Advanced Counting 				                   | Sections 8.1.1, 8.1.2, 8.2.1, 8.2.2, 8.4.1, 8.4.2, 8.4.3, 8.4.4, 8.5, 8.6.5|
 | 07/12     |  Probability 					                   | Sections 7.1, 7.2.1 - 7.2.6, 7.3.1, 7.3.2 |
 | 14/12     |  Advanced Probability 					           | Sections 7.4.1, 7.4.2, 7.4.3, 7.4.6, 7.4.7, 7.4.8|
