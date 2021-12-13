@@ -34,7 +34,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 | 23/11     |  Counting [[slides]][10p], [[exercises]][10e]				             | Sections 6.1.1, 6.1.2, 6.1.4, 6.2.1, 6.2.2, 6.3, 6.4.1, 6.4.2, 6.5|  
 | 30/11     |  Advanced Counting [[slides]][11p], [[exercises]][11e]			     | Sections 8.1.1, 8.1.2, 8.2.1, 8.2.2, 8.4.1, 8.4.2, 8.4.3, 8.4.4, 8.5, 8.6.5|
 | 07/12     |  Probability 		[[slides]][12p], [[exercises]][12e]			         | Sections 7.1, 7.2.1 - 7.2.6, 7.3.1, 7.3.2 |
-| 14/12     |  Advanced Probability 					           | Sections 7.4.1, 7.4.2, 7.4.3, 7.4.6, 7.4.7, 7.4.8|
+| 14/12     |  Advanced Probability 	[[slides]][13p], [[exercises]][13e]			 | Sections 7.4.1, 7.4.2, 7.4.3, 7.4.6, 7.4.7, 7.4.8|
 
 
 ## Contacts
